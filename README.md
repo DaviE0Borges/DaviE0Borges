@@ -40,7 +40,4 @@
   <img width="12" />
 </div>
 
-<hr>
-
-  <img height=220 align="left" src="https://github-readme-stats.vercel.app/api?username=DavieoBorges&card_width=300&theme=prussian&layout=donut" />
-  <img height=220 align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavieoBorges&langs_count=8&card_width=280&theme=prussian&layout=donut" />
+<hr
